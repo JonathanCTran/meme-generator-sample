@@ -2,7 +2,7 @@
   "name": "meme-generator",
   "version": "1.0.0",
   "description": "A Progressive Web App (PWA) for creating memes.",
-  "source": "src/index.html",
+  "source": "docs/index.html",
   "scripts": {
     "lint": "eslint src/js/**",
     "format": "prettier --ignore-unknown --write .",
